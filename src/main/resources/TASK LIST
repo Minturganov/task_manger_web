@@ -1,0 +1,10 @@
+TaskManager Project
+    Menu
+    1-Add Task
+    2-TaskList
+    3-Update,
+    4-Delete,
+    5-Active Tasks.
+
+Task (id,title,content,deadlineDate)  lari bo'ladi.
+
